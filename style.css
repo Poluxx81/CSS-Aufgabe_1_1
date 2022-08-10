@@ -1,0 +1,12 @@
+h1 :nth-child(1) {
+    color: rgb(129, 238, 145);
+    }
+h1 :nth-child(2) {
+    color: rgb(232, 73, 73);
+    }
+h1 :nth-child(3) {
+    color: rgb(216, 230, 62);
+    }
+h1 :nth-child(4) {
+    color: rgb(232, 73, 73);
+    }
